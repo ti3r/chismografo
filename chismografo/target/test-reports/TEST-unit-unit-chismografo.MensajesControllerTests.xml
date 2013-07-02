@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="IT0996" name="chismografo.MensajesControllerTests" tests="1" time="0.898" timestamp="2013-07-02T22:37:34">
+  <properties />
+  <testcase classname="chismografo.MensajesControllerTests" name="testSomething" time="0.751" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
