@@ -2,12 +2,16 @@ package chismografo
 
 class Mensaje {
 
-		String titulo
-		String mensaje
+	String titulo
+	String mensaje
 	
     static constraints = {
 			mensaje nullable:false
 			titulo nullable:true
     }
-				
+
+	public String toString(){
+		return "t: ${titulo}, msg:${mensaje}"
+	}
+					
 }
